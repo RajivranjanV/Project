@@ -18,7 +18,7 @@ public class Desktop implements Hardware,Software {
 		d.softwareResource();
 		d.hardwareResource();
 		
-		
+		System.out.println("page1");
 	}
 
 }
